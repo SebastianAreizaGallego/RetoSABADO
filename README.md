@@ -1,2 +1,0 @@
-# retoJS
- ejercicio retoJS
